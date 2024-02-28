@@ -5,8 +5,8 @@ simulation/
 *.txt
 *.rpt
 *.dpf
-*.qsf
-*.qpf
 *.bdf
 *.bsf
 *.vwf
+*.bak
+.vscode/

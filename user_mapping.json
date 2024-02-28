@@ -97,5 +97,124 @@
             "type": "LED",
             "index": 4
         }
+    ],
+    "Lab2_1": [
+        {
+            "pin": "A",
+            "type": "SWITCH",
+            "index": 3
+        },
+        {
+            "pin": "B",
+            "type": "SWITCH",
+            "index": 2
+        },
+        {
+            "pin": "C",
+            "type": "SWITCH",
+            "index": 1
+        },
+        {
+            "pin": "D",
+            "type": "SWITCH",
+            "index": 0
+        },
+        {
+            "pin": "NA",
+            "type": "7SEG0",
+            "index": 0
+        },
+        {
+            "pin": "NB",
+            "type": "7SEG0",
+            "index": 1
+        },
+        {
+            "pin": "NC",
+            "type": "7SEG0",
+            "index": 2
+        },
+        {
+            "pin": "ND",
+            "type": "7SEG0",
+            "index": 3
+        },
+        {
+            "pin": "NE",
+            "type": "7SEG0",
+            "index": 4
+        },
+        {
+            "pin": "NF",
+            "type": "7SEG0",
+            "index": 5
+        },
+        {
+            "pin": "NG",
+            "type": "7SEG0",
+            "index": 6
+        }
+    ],
+    "Lab2_2": [
+        {
+            "pin": "A",
+            "type": "SWITCH",
+            "index": 3
+        },
+        {
+            "pin": "B",
+            "type": "SWITCH",
+            "index": 2
+        },
+        {
+            "pin": "C",
+            "type": "SWITCH",
+            "index": 1
+        },
+        {
+            "pin": "D",
+            "type": "SWITCH",
+            "index": 0
+        },
+        {
+            "pin": "P",
+            "type": "LED",
+            "index": 0
+        },
+        {
+            "pin": "NA",
+            "type": "7SEG0",
+            "index": 0
+        },
+        {
+            "pin": "NB",
+            "type": "7SEG0",
+            "index": 1
+        },
+        {
+            "pin": "NC",
+            "type": "7SEG0",
+            "index": 2
+        },
+        {
+            "pin": "ND",
+            "type": "7SEG0",
+            "index": 3
+        },
+        {
+            "pin": "NE",
+            "type": "7SEG0",
+            "index": 4
+        },
+        {
+            "pin": "NF",
+            "type": "7SEG0",
+            "index": 5
+        },
+        {
+            "pin": "NG",
+            "type": "7SEG0",
+            "index": 6
+        }
     ]
 }

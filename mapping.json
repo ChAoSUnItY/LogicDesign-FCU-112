@@ -28,5 +28,33 @@
             "E4",
             "D2"
         ]
+    },
+    "7SEG0": {
+        "prefix": "PIN",
+        "list": [
+            "E11",
+            "F11",
+            "H12",
+            "H13",
+            "G12",
+            "F12",
+            "F13",
+            "D13"
+        ]
+    },
+    "7SEG1": {
+        "prefix": "PIN",
+        "list": [
+        ]
+    },
+    "7SEG2": {
+        "prefix": "PIN",
+        "list": [
+        ]
+    },
+    "7SEG3": {
+        "prefix": "PIN",
+        "list": [
+        ]
     }
 }

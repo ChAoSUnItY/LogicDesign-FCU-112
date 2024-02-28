@@ -1,3 +1,12 @@
+# A simple checkout tool used to perform automatic pin mapping and top level entity changing by
+# lookup json files.
+# This is designed for qsf (Quartus Setting File).
+#
+# Usage: py pinner.py <LabEntry>
+#
+# LabEntry should be defined in user_mapping.json.
+#
+# Author: ChAoS-UnItY (Kyle Lin) 
 import json
 import sys
 import re
@@ -18,6 +27,8 @@ target = sys.argv[1]
 
 with open("DigitalLogic.qsf", "r+") as file:
     file_string = file.read()
+    if file_string[-1] != '\n':
+        file_string += '\n'
     file.seek(0)
     # Replace top level entity
     file_string = re.sub(r"set_global_assignment -name TOP_LEVEL_ENTITY \w+", f"set_global_assignment -name TOP_LEVEL_ENTITY {target}", file_string)
