@@ -1,0 +1,101 @@
+{
+    "Lab1_1": [
+        {
+            "pin": "A",
+            "type": "SWITCH",
+            "index": 1
+        },
+        {
+            "pin": "B",
+            "type": "SWITCH",
+            "index": 0
+        },
+        {
+            "pin": "Cin",
+            "type": "SWITCH",
+            "index": 2
+        },
+        {
+            "pin": "Sum",
+            "type": "LED",
+            "index": 0
+        },
+        {
+            "pin": "Cout",
+            "type": "LED",
+            "index": 1
+        }
+    ],
+    "Lab1_2": [
+        {
+            "pin": "A0",
+            "type": "SWITCH",
+            "index": 4
+        },
+        {
+            "pin": "A1",
+            "type": "SWITCH",
+            "index": 5
+        },
+        {
+            "pin": "A2",
+            "type": "SWITCH",
+            "index": 6
+        },
+        {
+            "pin": "A3",
+            "type": "SWITCH",
+            "index": 7
+        },
+        {
+            "pin": "B0",
+            "type": "SWITCH",
+            "index": 0
+        },
+        {
+            "pin": "B1",
+            "type": "SWITCH",
+            "index": 1
+        },
+        {
+            "pin": "B2",
+            "type": "SWITCH",
+            "index": 2
+        },
+        {
+            "pin": "B3",
+            "type": "SWITCH",
+            "index": 3
+        },
+        {
+            "pin": "M",
+            "type": "SWITCH",
+            "index": -1
+        },
+        {
+            "pin": "Sum0",
+            "type": "LED",
+            "index": 0
+        },
+        {
+            "pin": "Sum1",
+            "type": "LED",
+            "index": 1
+        },
+        {
+            "pin": "Sum2",
+            "type": "LED",
+            "index": 2
+        },
+        {
+            "pin": "Sum3",
+            "type": "LED",
+            "index": 3
+        },
+        {
+            "pin": "C",
+            "type": "LED",
+            "index": 4
+        }
+    ]
+}
