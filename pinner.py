@@ -10,6 +10,10 @@
 import json
 import sys
 import re
+import subprocess
+import pathlib
+
+quartus_installation = pathlib.Path("C:\\altera\\13.1\\quartus\\bin")
 
 def resolve_pin(mapping, index):
     prefix = mapping["prefix"]
@@ -45,3 +49,9 @@ with open("DigitalLogic.qsf", "r+") as file:
 
     file.write(file_string)
     file.truncate()
+
+# Compile
+subprocess.run([quartus_installation / "quartus_sh", "--flow", "compile", "DigitalLogic.qpf" ])
+
+# Burn
+subprocess.run([quartus_installation / "quartus_pgm", "-m", "jtag", "-o", "p;output_files/DigitalLogic.sof@1"])
