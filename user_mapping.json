@@ -216,5 +216,204 @@
             "type": "7SEG0",
             "index": 6
         }
+    ],
+    "CustomSegDec": [
+        {
+            "pin": "C[1]",
+            "type": "SWITCH",
+            "index": 1
+        },
+        {
+            "pin": "C[0]",
+            "type": "SWITCH",
+            "index": 0
+        },
+        {
+            "pin": "NA",
+            "type": "7SEG0",
+            "index": 0
+        },
+        {
+            "pin": "NB",
+            "type": "7SEG0",
+            "index": 1
+        },
+        {
+            "pin": "NC",
+            "type": "7SEG0",
+            "index": 2
+        },
+        {
+            "pin": "ND",
+            "type": "7SEG0",
+            "index": 3
+        },
+        {
+            "pin": "NE",
+            "type": "7SEG0",
+            "index": 4
+        },
+        {
+            "pin": "NF",
+            "type": "7SEG0",
+            "index": 5
+        },
+        {
+            "pin": "NG",
+            "type": "7SEG0",
+            "index": 6
+        }
+    ],
+    "IndvCustomSegDec": [
+        {
+            "pin": "SW[1]",
+            "type": "SWITCH",
+            "index": 1
+        },
+        {
+            "pin": "SW[0]",
+            "type": "SWITCH",
+            "index": 0
+        },
+        {
+            "pin": "HEX0[0]",
+            "type": "7SEG0",
+            "index": 0
+        },
+        {
+            "pin": "HEX0[1]",
+            "type": "7SEG0",
+            "index": 1
+        },
+        {
+            "pin": "HEX0[2]",
+            "type": "7SEG0",
+            "index": 2
+        },
+        {
+            "pin": "HEX0[3]",
+            "type": "7SEG0",
+            "index": 3
+        },
+        {
+            "pin": "HEX0[4]",
+            "type": "7SEG0",
+            "index": 4
+        },
+        {
+            "pin": "HEX0[5]",
+            "type": "7SEG0",
+            "index": 5
+        },
+        {
+            "pin": "HEX0[6]",
+            "type": "7SEG0",
+            "index": 6
+        },
+        {
+            "pin": "HEX1[0]",
+            "type": "7SEG1",
+            "index": 0
+        },
+        {
+            "pin": "HEX1[1]",
+            "type": "7SEG1",
+            "index": 1
+        },
+        {
+            "pin": "HEX1[2]",
+            "type": "7SEG1",
+            "index": 2
+        },
+        {
+            "pin": "HEX1[3]",
+            "type": "7SEG1",
+            "index": 3
+        },
+        {
+            "pin": "HEX1[4]",
+            "type": "7SEG1",
+            "index": 4
+        },
+        {
+            "pin": "HEX1[5]",
+            "type": "7SEG1",
+            "index": 5
+        },
+        {
+            "pin": "HEX1[6]",
+            "type": "7SEG1",
+            "index": 6
+        },
+        {
+            "pin": "HEX2[0]",
+            "type": "7SEG2",
+            "index": 0
+        },
+        {
+            "pin": "HEX2[1]",
+            "type": "7SEG2",
+            "index": 1
+        },
+        {
+            "pin": "HEX2[2]",
+            "type": "7SEG2",
+            "index": 2
+        },
+        {
+            "pin": "HEX2[3]",
+            "type": "7SEG2",
+            "index": 3
+        },
+        {
+            "pin": "HEX2[4]",
+            "type": "7SEG2",
+            "index": 4
+        },
+        {
+            "pin": "HEX2[5]",
+            "type": "7SEG2",
+            "index": 5
+        },
+        {
+            "pin": "HEX2[6]",
+            "type": "7SEG2",
+            "index": 6
+        },
+        {
+            "pin": "HEX3[0]",
+            "type": "7SEG3",
+            "index": 0
+        },
+        {
+            "pin": "HEX3[1]",
+            "type": "7SEG3",
+            "index": 1
+        },
+        {
+            "pin": "HEX3[2]",
+            "type": "7SEG3",
+            "index": 2
+        },
+        {
+            "pin": "HEX3[3]",
+            "type": "7SEG3",
+            "index": 3
+        },
+        {
+            "pin": "HEX3[4]",
+            "type": "7SEG3",
+            "index": 4
+        },
+        {
+            "pin": "HEX3[5]",
+            "type": "7SEG3",
+            "index": 5
+        },
+        {
+            "pin": "HEX3[6]",
+            "type": "7SEG3",
+            "index": 6
+        }
     ]
 }
