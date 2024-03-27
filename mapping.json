@@ -77,5 +77,20 @@
             "D19",
             "G15"
         ]
+    },
+    "BUTTON": {
+        "prefix": "PIN",
+        "list": [
+            "H2",
+            "G3",
+            "F1"
+        ]
+    },
+    "CLK": {
+        "prefix": "PIN",
+        "list": [
+            "G21",
+            "B12"
+        ]
     }
 }

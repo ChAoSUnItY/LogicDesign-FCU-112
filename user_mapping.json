@@ -415,5 +415,540 @@
             "type": "7SEG3",
             "index": 6
         }
+    ],
+    "DecimalDecoder": [
+        {
+            "pin": "V[0]",
+            "type": "SWITCH",
+            "index": 0
+        },
+        {
+            "pin": "V[1]",
+            "type": "SWITCH",
+            "index": 1
+        },
+        {
+            "pin": "V[2]",
+            "type": "SWITCH",
+            "index": 2
+        },
+        {
+            "pin": "V[3]",
+            "type": "SWITCH",
+            "index": 3
+        },
+        {
+            "pin": "HEX0[0]",
+            "type": "7SEG0",
+            "index": 0
+        },
+        {
+            "pin": "HEX0[1]",
+            "type": "7SEG0",
+            "index": 1
+        },
+        {
+            "pin": "HEX0[2]",
+            "type": "7SEG0",
+            "index": 2
+        },
+        {
+            "pin": "HEX0[3]",
+            "type": "7SEG0",
+            "index": 3
+        },
+        {
+            "pin": "HEX0[4]",
+            "type": "7SEG0",
+            "index": 4
+        },
+        {
+            "pin": "HEX0[5]",
+            "type": "7SEG0",
+            "index": 5
+        },
+        {
+            "pin": "HEX0[6]",
+            "type": "7SEG0",
+            "index": 6
+        },
+        {
+            "pin": "HEX1[0]",
+            "type": "7SEG1",
+            "index": 0
+        },
+        {
+            "pin": "HEX1[1]",
+            "type": "7SEG1",
+            "index": 1
+        },
+        {
+            "pin": "HEX1[2]",
+            "type": "7SEG1",
+            "index": 2
+        },
+        {
+            "pin": "HEX1[3]",
+            "type": "7SEG1",
+            "index": 3
+        },
+        {
+            "pin": "HEX1[4]",
+            "type": "7SEG1",
+            "index": 4
+        },
+        {
+            "pin": "HEX1[5]",
+            "type": "7SEG1",
+            "index": 5
+        },
+        {
+            "pin": "HEX1[6]",
+            "type": "7SEG1",
+            "index": 6
+        }
+    ],
+    "MultiPhaseAdditionDisplay": [
+        {
+            "pin": "A[2]",
+            "type": "SWITCH",
+            "index": 5
+        },
+        {
+            "pin": "A[1]",
+            "type": "SWITCH",
+            "index": 4
+        },
+        {
+            "pin": "A[0]",
+            "type": "SWITCH",
+            "index": 3
+        },
+        {
+            "pin": "B[2]",
+            "type": "SWITCH",
+            "index": 2
+        },
+        {
+            "pin": "B[1]",
+            "type": "SWITCH",
+            "index": 1
+        },
+        {
+            "pin": "B[0]",
+            "type": "SWITCH",
+            "index": 0
+        },
+        {
+            "pin": "BUT_HEX",
+            "type": "BUTTON",
+            "index": 0
+        },
+        {
+            "pin": "BUT_LED",
+            "type": "BUTTON",
+            "index": 1
+        },
+        {
+            "pin": "HEX0[0]",
+            "type": "7SEG0",
+            "index": 0
+        },
+        {
+            "pin": "HEX0[1]",
+            "type": "7SEG0",
+            "index": 1
+        },
+        {
+            "pin": "HEX0[2]",
+            "type": "7SEG0",
+            "index": 2
+        },
+        {
+            "pin": "HEX0[3]",
+            "type": "7SEG0",
+            "index": 3
+        },
+        {
+            "pin": "HEX0[4]",
+            "type": "7SEG0",
+            "index": 4
+        },
+        {
+            "pin": "HEX0[5]",
+            "type": "7SEG0",
+            "index": 5
+        },
+        {
+            "pin": "HEX0[6]",
+            "type": "7SEG0",
+            "index": 6
+        },
+        {
+            "pin": "HEX1[0]",
+            "type": "7SEG1",
+            "index": 0
+        },
+        {
+            "pin": "HEX1[1]",
+            "type": "7SEG1",
+            "index": 1
+        },
+        {
+            "pin": "HEX1[2]",
+            "type": "7SEG1",
+            "index": 2
+        },
+        {
+            "pin": "HEX1[3]",
+            "type": "7SEG1",
+            "index": 3
+        },
+        {
+            "pin": "HEX1[4]",
+            "type": "7SEG1",
+            "index": 4
+        },
+        {
+            "pin": "HEX1[5]",
+            "type": "7SEG1",
+            "index": 5
+        },
+        {
+            "pin": "HEX1[6]",
+            "type": "7SEG1",
+            "index": 6
+        },
+        {
+            "pin": "LED[3]",
+            "type": "LED",
+            "index": 3
+        },
+        {
+            "pin": "LED[2]",
+            "type": "LED",
+            "index": 2
+        },
+        {
+            "pin": "LED[1]",
+            "type": "LED",
+            "index": 1
+        },
+        {
+            "pin": "LED[0]",
+            "type": "LED",
+            "index": 0
+        }
+    ],
+    "KeyArithmetic": [
+        {
+            "pin": "A[3]",
+            "type": "SWITCH",
+            "index": 7
+        },
+        {
+            "pin": "A[2]",
+            "type": "SWITCH",
+            "index": 6
+        },
+        {
+            "pin": "A[1]",
+            "type": "SWITCH",
+            "index": 5
+        },
+        {
+            "pin": "A[0]",
+            "type": "SWITCH",
+            "index": 4
+        },
+        {
+            "pin": "B[3]",
+            "type": "SWITCH",
+            "index": 3
+        },
+        {
+            "pin": "B[2]",
+            "type": "SWITCH",
+            "index": 2
+        },
+        {
+            "pin": "B[1]",
+            "type": "SWITCH",
+            "index": 1
+        },
+        {
+            "pin": "B[0]",
+            "type": "SWITCH",
+            "index": 0
+        },
+        {
+            "pin": "BUT_MUL",
+            "type": "BUTTON",
+            "index": 0
+        },
+        {
+            "pin": "BUT_SUB",
+            "type": "BUTTON",
+            "index": 1
+        },
+        {
+            "pin": "BUT_ADD",
+            "type": "BUTTON",
+            "index": 2
+        },
+        {
+            "pin": "HEX0[0]",
+            "type": "7SEG0",
+            "index": 0
+        },
+        {
+            "pin": "HEX0[1]",
+            "type": "7SEG0",
+            "index": 1
+        },
+        {
+            "pin": "HEX0[2]",
+            "type": "7SEG0",
+            "index": 2
+        },
+        {
+            "pin": "HEX0[3]",
+            "type": "7SEG0",
+            "index": 3
+        },
+        {
+            "pin": "HEX0[4]",
+            "type": "7SEG0",
+            "index": 4
+        },
+        {
+            "pin": "HEX0[5]",
+            "type": "7SEG0",
+            "index": 5
+        },
+        {
+            "pin": "HEX0[6]",
+            "type": "7SEG0",
+            "index": 6
+        },
+        {
+            "pin": "HEX1[0]",
+            "type": "7SEG1",
+            "index": 0
+        },
+        {
+            "pin": "HEX1[1]",
+            "type": "7SEG1",
+            "index": 1
+        },
+        {
+            "pin": "HEX1[2]",
+            "type": "7SEG1",
+            "index": 2
+        },
+        {
+            "pin": "HEX1[3]",
+            "type": "7SEG1",
+            "index": 3
+        },
+        {
+            "pin": "HEX1[4]",
+            "type": "7SEG1",
+            "index": 4
+        },
+        {
+            "pin": "HEX1[5]",
+            "type": "7SEG1",
+            "index": 5
+        },
+        {
+            "pin": "HEX1[6]",
+            "type": "7SEG1",
+            "index": 6
+        },
+        {
+            "pin": "LED",
+            "type": "LED",
+            "index": 9
+        }
+    ],
+    "DualCounter": [
+        {
+            "pin": "VAR_HEX[0]",
+            "type": "7SEG0",
+            "index": 0
+        },
+        {
+            "pin": "VAR_HEX[1]",
+            "type": "7SEG0",
+            "index": 1
+        },
+        {
+            "pin": "VAR_HEX[2]",
+            "type": "7SEG0",
+            "index": 2
+        },
+        {
+            "pin": "VAR_HEX[3]",
+            "type": "7SEG0",
+            "index": 3
+        },
+        {
+            "pin": "VAR_HEX[4]",
+            "type": "7SEG0",
+            "index": 4
+        },
+        {
+            "pin": "VAR_HEX[5]",
+            "type": "7SEG0",
+            "index": 5
+        },
+        {
+            "pin": "VAR_HEX[6]",
+            "type": "7SEG0",
+            "index": 6
+        },
+        {
+            "pin": "SIG_HEX[0]",
+            "type": "7SEG3",
+            "index": 0
+        },
+        {
+            "pin": "SIG_HEX[1]",
+            "type": "7SEG3",
+            "index": 1
+        },
+        {
+            "pin": "SIG_HEX[2]",
+            "type": "7SEG3",
+            "index": 2
+        },
+        {
+            "pin": "SIG_HEX[3]",
+            "type": "7SEG3",
+            "index": 3
+        },
+        {
+            "pin": "SIG_HEX[4]",
+            "type": "7SEG3",
+            "index": 4
+        },
+        {
+            "pin": "SIG_HEX[5]",
+            "type": "7SEG3",
+            "index": 5
+        },
+        {
+            "pin": "SIG_HEX[6]",
+            "type": "7SEG3",
+            "index": 6
+        },
+        {
+            "pin": "CLK",
+            "type": "BUTTON",
+            "index": 2
+        },
+        {
+            "pin": "RESETN",
+            "type": "BUTTON",
+            "index": 1
+        }
+    ],
+    "SignedAcc": [
+        {
+            "pin": "A[0]",
+            "type": "SWITCH",
+            "index": 0
+        },
+        {
+            "pin": "A[1]",
+            "type": "SWITCH",
+            "index": 1
+        },
+        {
+            "pin": "A[2]",
+            "type": "SWITCH",
+            "index": 2
+        },
+        {
+            "pin": "A[3]",
+            "type": "SWITCH",
+            "index": 3
+        },
+        {
+            "pin": "A[4]",
+            "type": "SWITCH",
+            "index": 4
+        },
+        {
+            "pin": "A[5]",
+            "type": "SWITCH",
+            "index": 5
+        },
+        {
+            "pin": "A[6]",
+            "type": "SWITCH",
+            "index": 6
+        },
+        {
+            "pin": "A[7]",
+            "type": "SWITCH",
+            "index": 7
+        },
+        {
+            "pin": "S[0]",
+            "type": "LED",
+            "index": 0
+        },
+        {
+            "pin": "S[1]",
+            "type": "LED",
+            "index": 1
+        },
+        {
+            "pin": "S[2]",
+            "type": "LED",
+            "index": 2
+        },
+        {
+            "pin": "S[3]",
+            "type": "LED",
+            "index": 3
+        },
+        {
+            "pin": "S[4]",
+            "type": "LED",
+            "index": 4
+        },
+        {
+            "pin": "S[5]",
+            "type": "LED",
+            "index": 5
+        },
+        {
+            "pin": "S[6]",
+            "type": "LED",
+            "index": 6
+        },
+        {
+            "pin": "S[7]",
+            "type": "LED",
+            "index": 7
+        },
+        {
+            "pin": "OVF",
+            "type": "LED",
+            "index": -1
+        },
+        {
+            "pin": "CLK",
+            "type": "BUTTON",
+            "index": 2
+        },
+        {
+            "pin": "RESETN",
+            "type": "BUTTON",
+            "index": 1
+        }
     ]
 }
