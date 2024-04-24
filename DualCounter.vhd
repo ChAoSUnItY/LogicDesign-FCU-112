@@ -29,10 +29,11 @@ begin
 		if RESETN = '0' then
 			tmp1 <= 0;
 		elsif rising_edge(CLK) then
-			tmp1 <= tmp1 + 1;
-            if tmp1 = 10 then
+            if tmp1 = 9 then
                 tmp1 <= 0;
-            end if;
+            else
+			    tmp1 <= tmp1 + 1;
+			end if;
 		end if;
 	end process;
 

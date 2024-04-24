@@ -13,26 +13,27 @@ entity SignedAcc is
 end SignedAcc;
 
 architecture a of SignedAcc is
-signal tmp: std_logic_vector(7 downto 0) := (others => '0');
-signal add_tmp: integer := 0;
+signal pre_add, post_add: std_logic_vector(7 downto 0) := (others => '0');
 begin
 	process (CLK, RESETN)
+		variable add_tmp: integer;
 	begin
 		if RESETN = '0' then
-			tmp <= (others => '0');
+			pre_add <= (others => '0');
+			post_add <= (others => '0');
 			OVF <= '0';
 		elsif rising_edge(CLK) then
-			add_tmp <= to_integer(signed(A)) + to_integer(signed(tmp));
+			add_tmp := to_integer(signed(pre_add)) + to_integer(signed(post_add));
+			post_add <= std_logic_vector(to_signed(add_tmp, post_add'length));
+			pre_add <= A;
 		
-			if add_tmp >= 128 or add_tmp <= -127 then
+			if add_tmp > 127 or add_tmp < -128 then
 				OVF <= '1';
 			else
 				OVF <= '0';
 			end if;
-			
-			tmp <= std_logic_vector(signed(A) + signed(tmp));
 		end if;
 	end process;
 
-	S <= tmp;
+	S <= post_add;
 end a;
