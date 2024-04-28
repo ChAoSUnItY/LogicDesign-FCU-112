@@ -1440,5 +1440,674 @@
             "type": "7SEG3",
             "index": 6
         }
+    ],
+    "RandomDice": [
+        {
+            "pin": "CLK_50M",
+            "type": "CLK",
+            "index": 0
+        },
+        {
+            "pin": "CLK",
+            "type": "BUTTON",
+            "index": 2
+        },
+        {
+            "pin": "RESETN",
+            "type": "BUTTON",
+            "index": 1
+        },
+        {
+            "pin": "GPIO_0[0]",
+            "type": "GPIO0",
+            "index": 0
+        },
+        {
+            "pin": "GPIO_0[1]",
+            "type": "GPIO0",
+            "index": 1
+        },
+        {
+            "pin": "GPIO_0[2]",
+            "type": "GPIO0",
+            "index": 2
+        },
+        {
+            "pin": "GPIO_0[3]",
+            "type": "GPIO0",
+            "index": 3
+        },
+        {
+            "pin": "GPIO_0[4]",
+            "type": "GPIO0",
+            "index": 4
+        },
+        {
+            "pin": "GPIO_0[5]",
+            "type": "GPIO0",
+            "index": 5
+        },
+        {
+            "pin": "GPIO_0[6]",
+            "type": "GPIO0",
+            "index": 6
+        },
+        {
+            "pin": "GPIO_0[7]",
+            "type": "GPIO0",
+            "index": 7
+        },
+        {
+            "pin": "GPIO_0[8]",
+            "type": "GPIO0",
+            "index": 8
+        },
+        {
+            "pin": "GPIO_0[9]",
+            "type": "GPIO0",
+            "index": 9
+        },
+        {
+            "pin": "GPIO_0[10]",
+            "type": "GPIO0",
+            "index": 10
+        },
+        {
+            "pin": "GPIO_0[11]",
+            "type": "GPIO0",
+            "index": 11
+        },
+        {
+            "pin": "GPIO_0[12]",
+            "type": "GPIO0",
+            "index": 12
+        },
+        {
+            "pin": "GPIO_0[13]",
+            "type": "GPIO0",
+            "index": 13
+        },
+        {
+            "pin": "GPIO_0[14]",
+            "type": "GPIO0",
+            "index": 14
+        },
+        {
+            "pin": "GPIO_0[15]",
+            "type": "GPIO0",
+            "index": 15
+        },
+        {
+            "pin": "GPIO_0[16]",
+            "type": "GPIO0",
+            "index": 16
+        },
+        {
+            "pin": "GPIO_0[17]",
+            "type": "GPIO0",
+            "index": 17
+        },
+        {
+            "pin": "GPIO_0[18]",
+            "type": "GPIO0",
+            "index": 18
+        },
+        {
+            "pin": "GPIO_0[19]",
+            "type": "GPIO0",
+            "index": 19
+        },
+        {
+            "pin": "GPIO_0[20]",
+            "type": "GPIO0",
+            "index": 20
+        },
+        {
+            "pin": "GPIO_0[21]",
+            "type": "GPIO0",
+            "index": 21
+        },
+        {
+            "pin": "GPIO_0[22]",
+            "type": "GPIO0",
+            "index": 22
+        },
+        {
+            "pin": "GPIO_0[23]",
+            "type": "GPIO0",
+            "index": 23
+        },
+        {
+            "pin": "GPIO_0[24]",
+            "type": "GPIO0",
+            "index": 24
+        },
+        {
+            "pin": "GPIO_0[25]",
+            "type": "GPIO0",
+            "index": 25
+        },
+        {
+            "pin": "GPIO_0[26]",
+            "type": "GPIO0",
+            "index": 26
+        },
+        {
+            "pin": "GPIO_0[27]",
+            "type": "GPIO0",
+            "index": 27
+        },
+        {
+            "pin": "GPIO_0[28]",
+            "type": "GPIO0",
+            "index": 28
+        },
+        {
+            "pin": "GPIO_0[29]",
+            "type": "GPIO0",
+            "index": 29
+        },
+        {
+            "pin": "GPIO_0[30]",
+            "type": "GPIO0",
+            "index": 30
+        },
+        {
+            "pin": "GPIO_0[31]",
+            "type": "GPIO0",
+            "index": 31
+        },
+        {
+            "pin": "GPIO_1[0]",
+            "type": "GPIO1",
+            "index": 0
+        },
+        {
+            "pin": "GPIO_1[1]",
+            "type": "GPIO1",
+            "index": 1
+        },
+        {
+            "pin": "GPIO_1[2]",
+            "type": "GPIO1",
+            "index": 2
+        },
+        {
+            "pin": "GPIO_1[3]",
+            "type": "GPIO1",
+            "index": 3
+        },
+        {
+            "pin": "GPIO_1[4]",
+            "type": "GPIO1",
+            "index": 4
+        },
+        {
+            "pin": "GPIO_1[5]",
+            "type": "GPIO1",
+            "index": 5
+        },
+        {
+            "pin": "GPIO_1[6]",
+            "type": "GPIO1",
+            "index": 6
+        },
+        {
+            "pin": "GPIO_1[7]",
+            "type": "GPIO1",
+            "index": 7
+        },
+        {
+            "pin": "GPIO_1[8]",
+            "type": "GPIO1",
+            "index": 8
+        },
+        {
+            "pin": "GPIO_1[9]",
+            "type": "GPIO1",
+            "index": 9
+        },
+        {
+            "pin": "GPIO_1[10]",
+            "type": "GPIO1",
+            "index": 10
+        },
+        {
+            "pin": "GPIO_1[11]",
+            "type": "GPIO1",
+            "index": 11
+        },
+        {
+            "pin": "GPIO_1[12]",
+            "type": "GPIO1",
+            "index": 12
+        },
+        {
+            "pin": "GPIO_1[13]",
+            "type": "GPIO1",
+            "index": 13
+        },
+        {
+            "pin": "GPIO_1[14]",
+            "type": "GPIO1",
+            "index": 14
+        },
+        {
+            "pin": "GPIO_1[15]",
+            "type": "GPIO1",
+            "index": 15
+        },
+        {
+            "pin": "GPIO_1[16]",
+            "type": "GPIO1",
+            "index": 16
+        },
+        {
+            "pin": "GPIO_1[17]",
+            "type": "GPIO1",
+            "index": 17
+        },
+        {
+            "pin": "GPIO_1[18]",
+            "type": "GPIO1",
+            "index": 18
+        },
+        {
+            "pin": "GPIO_1[19]",
+            "type": "GPIO1",
+            "index": 19
+        },
+        {
+            "pin": "GPIO_1[20]",
+            "type": "GPIO1",
+            "index": 20
+        },
+        {
+            "pin": "GPIO_1[21]",
+            "type": "GPIO1",
+            "index": 21
+        },
+        {
+            "pin": "GPIO_1[22]",
+            "type": "GPIO1",
+            "index": 22
+        },
+        {
+            "pin": "GPIO_1[23]",
+            "type": "GPIO1",
+            "index": 23
+        },
+        {
+            "pin": "GPIO_1[24]",
+            "type": "GPIO1",
+            "index": 24
+        },
+        {
+            "pin": "GPIO_1[25]",
+            "type": "GPIO1",
+            "index": 25
+        },
+        {
+            "pin": "GPIO_1[26]",
+            "type": "GPIO1",
+            "index": 26
+        },
+        {
+            "pin": "GPIO_1[27]",
+            "type": "GPIO1",
+            "index": 27
+        },
+        {
+            "pin": "GPIO_1[28]",
+            "type": "GPIO1",
+            "index": 28
+        },
+        {
+            "pin": "GPIO_1[29]",
+            "type": "GPIO1",
+            "index": 29
+        },
+        {
+            "pin": "GPIO_1[30]",
+            "type": "GPIO1",
+            "index": 30
+        },
+        {
+            "pin": "GPIO_1[31]",
+            "type": "GPIO1",
+            "index": 31
+        }
+    ],
+    "LittleGreenMan": [
+        {
+            "pin": "CLK_50M",
+            "type": "CLK",
+            "index": 0
+        },
+        {
+            "pin": "ENABLE",
+            "type": "BUTTON",
+            "index": 2
+        },
+        {
+            "pin": "GPIO_0[0]",
+            "type": "GPIO0",
+            "index": 0
+        },
+        {
+            "pin": "GPIO_0[1]",
+            "type": "GPIO0",
+            "index": 1
+        },
+        {
+            "pin": "GPIO_0[2]",
+            "type": "GPIO0",
+            "index": 2
+        },
+        {
+            "pin": "GPIO_0[3]",
+            "type": "GPIO0",
+            "index": 3
+        },
+        {
+            "pin": "GPIO_0[4]",
+            "type": "GPIO0",
+            "index": 4
+        },
+        {
+            "pin": "GPIO_0[5]",
+            "type": "GPIO0",
+            "index": 5
+        },
+        {
+            "pin": "GPIO_0[6]",
+            "type": "GPIO0",
+            "index": 6
+        },
+        {
+            "pin": "GPIO_0[7]",
+            "type": "GPIO0",
+            "index": 7
+        },
+        {
+            "pin": "GPIO_0[8]",
+            "type": "GPIO0",
+            "index": 8
+        },
+        {
+            "pin": "GPIO_0[9]",
+            "type": "GPIO0",
+            "index": 9
+        },
+        {
+            "pin": "GPIO_0[10]",
+            "type": "GPIO0",
+            "index": 10
+        },
+        {
+            "pin": "GPIO_0[11]",
+            "type": "GPIO0",
+            "index": 11
+        },
+        {
+            "pin": "GPIO_0[12]",
+            "type": "GPIO0",
+            "index": 12
+        },
+        {
+            "pin": "GPIO_0[13]",
+            "type": "GPIO0",
+            "index": 13
+        },
+        {
+            "pin": "GPIO_0[14]",
+            "type": "GPIO0",
+            "index": 14
+        },
+        {
+            "pin": "GPIO_0[15]",
+            "type": "GPIO0",
+            "index": 15
+        },
+        {
+            "pin": "GPIO_0[16]",
+            "type": "GPIO0",
+            "index": 16
+        },
+        {
+            "pin": "GPIO_0[17]",
+            "type": "GPIO0",
+            "index": 17
+        },
+        {
+            "pin": "GPIO_0[18]",
+            "type": "GPIO0",
+            "index": 18
+        },
+        {
+            "pin": "GPIO_0[19]",
+            "type": "GPIO0",
+            "index": 19
+        },
+        {
+            "pin": "GPIO_0[20]",
+            "type": "GPIO0",
+            "index": 20
+        },
+        {
+            "pin": "GPIO_0[21]",
+            "type": "GPIO0",
+            "index": 21
+        },
+        {
+            "pin": "GPIO_0[22]",
+            "type": "GPIO0",
+            "index": 22
+        },
+        {
+            "pin": "GPIO_0[23]",
+            "type": "GPIO0",
+            "index": 23
+        },
+        {
+            "pin": "GPIO_0[24]",
+            "type": "GPIO0",
+            "index": 24
+        },
+        {
+            "pin": "GPIO_0[25]",
+            "type": "GPIO0",
+            "index": 25
+        },
+        {
+            "pin": "GPIO_0[26]",
+            "type": "GPIO0",
+            "index": 26
+        },
+        {
+            "pin": "GPIO_0[27]",
+            "type": "GPIO0",
+            "index": 27
+        },
+        {
+            "pin": "GPIO_0[28]",
+            "type": "GPIO0",
+            "index": 28
+        },
+        {
+            "pin": "GPIO_0[29]",
+            "type": "GPIO0",
+            "index": 29
+        },
+        {
+            "pin": "GPIO_0[30]",
+            "type": "GPIO0",
+            "index": 30
+        },
+        {
+            "pin": "GPIO_0[31]",
+            "type": "GPIO0",
+            "index": 31
+        },
+        {
+            "pin": "GPIO_1[0]",
+            "type": "GPIO1",
+            "index": 0
+        },
+        {
+            "pin": "GPIO_1[1]",
+            "type": "GPIO1",
+            "index": 1
+        },
+        {
+            "pin": "GPIO_1[2]",
+            "type": "GPIO1",
+            "index": 2
+        },
+        {
+            "pin": "GPIO_1[3]",
+            "type": "GPIO1",
+            "index": 3
+        },
+        {
+            "pin": "GPIO_1[4]",
+            "type": "GPIO1",
+            "index": 4
+        },
+        {
+            "pin": "GPIO_1[5]",
+            "type": "GPIO1",
+            "index": 5
+        },
+        {
+            "pin": "GPIO_1[6]",
+            "type": "GPIO1",
+            "index": 6
+        },
+        {
+            "pin": "GPIO_1[7]",
+            "type": "GPIO1",
+            "index": 7
+        },
+        {
+            "pin": "GPIO_1[8]",
+            "type": "GPIO1",
+            "index": 8
+        },
+        {
+            "pin": "GPIO_1[9]",
+            "type": "GPIO1",
+            "index": 9
+        },
+        {
+            "pin": "GPIO_1[10]",
+            "type": "GPIO1",
+            "index": 10
+        },
+        {
+            "pin": "GPIO_1[11]",
+            "type": "GPIO1",
+            "index": 11
+        },
+        {
+            "pin": "GPIO_1[12]",
+            "type": "GPIO1",
+            "index": 12
+        },
+        {
+            "pin": "GPIO_1[13]",
+            "type": "GPIO1",
+            "index": 13
+        },
+        {
+            "pin": "GPIO_1[14]",
+            "type": "GPIO1",
+            "index": 14
+        },
+        {
+            "pin": "GPIO_1[15]",
+            "type": "GPIO1",
+            "index": 15
+        },
+        {
+            "pin": "GPIO_1[16]",
+            "type": "GPIO1",
+            "index": 16
+        },
+        {
+            "pin": "GPIO_1[17]",
+            "type": "GPIO1",
+            "index": 17
+        },
+        {
+            "pin": "GPIO_1[18]",
+            "type": "GPIO1",
+            "index": 18
+        },
+        {
+            "pin": "GPIO_1[19]",
+            "type": "GPIO1",
+            "index": 19
+        },
+        {
+            "pin": "GPIO_1[20]",
+            "type": "GPIO1",
+            "index": 20
+        },
+        {
+            "pin": "GPIO_1[21]",
+            "type": "GPIO1",
+            "index": 21
+        },
+        {
+            "pin": "GPIO_1[22]",
+            "type": "GPIO1",
+            "index": 22
+        },
+        {
+            "pin": "GPIO_1[23]",
+            "type": "GPIO1",
+            "index": 23
+        },
+        {
+            "pin": "GPIO_1[24]",
+            "type": "GPIO1",
+            "index": 24
+        },
+        {
+            "pin": "GPIO_1[25]",
+            "type": "GPIO1",
+            "index": 25
+        },
+        {
+            "pin": "GPIO_1[26]",
+            "type": "GPIO1",
+            "index": 26
+        },
+        {
+            "pin": "GPIO_1[27]",
+            "type": "GPIO1",
+            "index": 27
+        },
+        {
+            "pin": "GPIO_1[28]",
+            "type": "GPIO1",
+            "index": 28
+        },
+        {
+            "pin": "GPIO_1[29]",
+            "type": "GPIO1",
+            "index": 29
+        },
+        {
+            "pin": "GPIO_1[30]",
+            "type": "GPIO1",
+            "index": 30
+        },
+        {
+            "pin": "GPIO_1[31]",
+            "type": "GPIO1",
+            "index": 31
+        }
     ]
 }

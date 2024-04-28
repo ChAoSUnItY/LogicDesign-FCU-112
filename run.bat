@@ -1,2 +1,2 @@
 @echo off
-py compile.py %1
+python compile.py %1
